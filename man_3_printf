@@ -124,5 +124,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Biniyam Fikiru
-
+Written by \fBSuara Ayomide\fR and \fBOni Remi\fR.

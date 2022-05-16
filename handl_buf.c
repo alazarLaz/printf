@@ -1,4 +1,4 @@
-A#include "main.h"
+#include "main.h"
 
 /**
  * handl_buf - concatenates the buffer characters
@@ -18,4 +18,3 @@ unsigned int handl_buf(char *buf, char c, unsigned int ibuf)
 	ibuf++;
 	return (ibuf);
 }
-
